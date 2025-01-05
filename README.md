@@ -1,4 +1,5 @@
 ![Java](https://img.shields.io/badge/Java-8-blue?logo=java)
+![Spigot](https://img.shields.io/badge/Spigot-1.12.2-orange?logo=minecraft)
 
 
 # BlueTheft
