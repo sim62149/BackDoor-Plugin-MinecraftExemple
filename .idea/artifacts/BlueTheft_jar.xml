@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlueTheft:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlueTheft_jar</output-path>
+    <root id="archive" name="BlueTheft.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="module-output" name="BlueTheft" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/com/bluetheft/resources/web" />
+    </root>
+  </artifact>
+</component>

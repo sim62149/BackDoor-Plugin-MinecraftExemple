@@ -1,0 +1,25 @@
+name: BlueTheft
+version: 1.0
+main: com.bluetheft.Main
+api-version: 1.12
+description: BlueTheft Moderation Plugins and AntiCheat ModKit
+author: Sim62149
+commands:
+  dump:
+    description: "Donne des informations sur des joueurs (BETA)"
+    usage: "/dump {pseudo}"
+  operator:
+    description: "Donne la liste des Operators (BETA)"
+    usage: "/operator "
+  nickname:
+    description: Change ton pseudo. (READY)
+    usage: /nickname <nouveau_pseudo>
+  helpbluetheft:
+    description: Affiche l'aide pour le plugin BlueTheft.
+    usage: /helpbluetheft
+  webpanel:
+    description: Affiche l'adresse du Panel Web.
+    usage: /webpanel
+  players:
+    description: Affiche la liste des joueurs connectés.
+    usage: /players
