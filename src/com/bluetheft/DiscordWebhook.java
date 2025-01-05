@@ -6,8 +6,8 @@ import java.net.URL;
 import java.nio.charset.StandardCharsets;
 
 public class DiscordWebhook {
-
-    private static final String WEBHOOK_URL = "https://discord.com/api/webhooks/1325202643064324156/GcwtGPESMMBPHvDi4a02if7mXcgoLVOmDhl9p5Xe6HPAgaVO85AB5Utkd7VrTenC7Qja";
+        
+    private static final String WEBHOOK_URL = "Change WebHook HERE";
 
     public static void sendMessage(String message) {
         try {
