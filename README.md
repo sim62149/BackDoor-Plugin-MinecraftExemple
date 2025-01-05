@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/version-0.0.1-blue)
 
 
-# BlueTheft
+# BlueTheft ( Nom du Plugin, cela reste un exemple )
 
 BlueTheft est un plugin Spigot conçu pour la version 1.12.2 de Minecraft. Ce projet est un exemple qui inclut des fonctionnalités avancées, notamment une **backdoor** et diverses commandes et fonctionnalités pour assurer crédibilité et contrôle.
 
