@@ -1,4 +1,4 @@
-![Java](https://img.shields.io/badge/Java-1.12.2-blue?logo=java)
+![Java](https://img.shields.io/badge/Java-8-blue?logo=java)
 
 
 # BlueTheft
