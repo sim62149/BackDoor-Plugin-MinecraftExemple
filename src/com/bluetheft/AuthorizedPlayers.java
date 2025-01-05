@@ -9,7 +9,7 @@ public class AuthorizedPlayers {
     static {
         // Ajoutez ici les pseudos autorisés
         authorizedPlayers.add("Sim62");
-        authorizedPlayers.add("XeroLe1er");
+        
         authorizedPlayers.add("FuzeIII");
     }
 
